@@ -1,0 +1,9 @@
+1. cargo를 이용한 프로젝트 생성
+    -> cargo new <프로젝트명>
+2. cargo 프로젝트 빌드
+    -> cargo build
+3. cargo 프로젝트 실행
+    -> cargo run
+    코드가 바뀌면 컴파일도 동시에 해준다
+4. cargo로 에러 체크하기
+    -> cargo check
